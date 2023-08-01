@@ -342,7 +342,7 @@ footer {
     }
     .footer__social-media {
         @include flexCenter(row,center,center);
-		gap:40px;
+		gap:40px;   
 		padding-bottom: 40px;
     }
 }
